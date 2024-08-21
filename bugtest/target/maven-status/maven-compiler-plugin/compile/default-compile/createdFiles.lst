@@ -1,0 +1,3 @@
+com\example\bugtest\BugtestApplication.class
+com\example\bugtest\controller\FileDownloadController.class
+com\example\bugtest\controller\UserController.class
